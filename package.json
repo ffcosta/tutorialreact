@@ -22,7 +22,6 @@
       ">0.2%",
       "not dead",
       "not op_mini all",
-      "homepage" : "http://ffcosta.github.io/tutorialreact"
     ],
     "development": [
       "last 1 chrome version",
